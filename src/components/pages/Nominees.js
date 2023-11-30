@@ -1,5 +1,5 @@
 import React from "react";
-import ReactPlayer from 'react-player';g
+import ReactPlayer from 'react-player';
 import NomineesSection from "../NomineesSection";
 
 
